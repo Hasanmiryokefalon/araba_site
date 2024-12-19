@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+}
+
+.logo {
+    height: 200px !important;
+    width: 100%px !important;
+}
+
+.d-block {
+    height: 500px;
+    width: 70% !important;
+    margin-left: 230px !important;
+}
+
+.container {
+    width: 70%;
+    margin-left: 255px !important;
+}
+
+.car-row {
+    margin-top: 15px;
+    height: 300px;
+    width: 590px;
+    border-radius: 5%;
+}
+
+.lorem1 {
+    margin-top: 10px;
+    background-color: gray;
+    color: white;
+    border-radius: 5%;
+}
+
+.lorem2 {
+    background: gray;
+    color: white;
+    border-radius: 5%;
+}
+
+.btn-close {
+    color: red !important;
+}
+
+.calors {
+    background-color: gray;
+}
